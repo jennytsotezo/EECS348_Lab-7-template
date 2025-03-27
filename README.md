@@ -4,7 +4,7 @@ This is a template for Lab 7 with continuous integration testing set up in a
 [GitHub Actions workflow](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions).
 When you push code to this repository, it will automatically be compiled and
 ran through a set of test cases, and the results will be reported back to you.
-This should give you an opportunity to verify that your code is compiling and
+This should give you an opportunity to verify that your code is compiling an
 behaving as expected before you submit it.
 
 ## Viewing the workflow report
